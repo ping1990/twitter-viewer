@@ -71,3 +71,4 @@
   ---
 
   **[Get Started →](https://twitterwebviewer.com)**
+  If this tool helped you, please give it a ⭐ to help others find it!
