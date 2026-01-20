@@ -52,12 +52,15 @@
   ## ❓ Frequently Asked Questions
 
   **Q: How to view Twitter posts without an account?**
+  
   A: Simply use our [Twitter Viewer](https://twitterwebviewer.com/) to bypass the login requirement and browse profiles directly.
 
   **Q: Is there an anonymous Twitter search tool?**
+  
   A: Yes, our platform allows you to search for tweets and trending topics on X without a digital footprint.
 
   **Q: Can I download Twitter videos without logging in?**
+  
   A: Absolutely. Our tool includes an integrated HD video downloader for public X content.
 
   ## 🤝 Contributing
@@ -71,4 +74,5 @@
   ---
 
   **[Get Started →](https://twitterwebviewer.com)**
+  
   If this tool helped you, please give it a ⭐ to help others find it!
