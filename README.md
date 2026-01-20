@@ -5,6 +5,13 @@
   [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftwitterwebviewer.com)](https://twitterwebviewer.com)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+  ## 🛑 Tired of the "Login Wall"? 
+  Stop letting X track your every move or block you with mandatory pop-ups. 
+
+  **[Twitter Web Viewer](https://twitterwebviewer.com/)** is a privacy-focused gateway designed to let you **search X online** and **view Twitter profiles anonymously**. No digital fingerprint, no tracking, no account needed. Just pure access.
+
+  👉 **[Start Browsing Anonymously Now](https://twitterwebviewer.com/)**
+
   ## 🌐 Live Demo
 
   **[twitterwebviewer.com](https://twitterwebviewer.com)**
@@ -41,6 +48,17 @@
   ## 📖 Blog
 
   Check out our [blog](https://twitterwebviewer.com/blog) for guides and tips on using Twitter Viewer.
+
+  ## ❓ Frequently Asked Questions
+
+  **Q: How to view Twitter posts without an account?**
+  A: Simply use our [Twitter Viewer](https://twitterwebviewer.com/) to bypass the login requirement and browse profiles directly.
+
+  **Q: Is there an anonymous Twitter search tool?**
+  A: Yes, our platform allows you to search for tweets and trending topics on X without a digital footprint.
+
+  **Q: Can I download Twitter videos without logging in?**
+  A: Absolutely. Our tool includes an integrated HD video downloader for public X content.
 
   ## 🤝 Contributing
 
