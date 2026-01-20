@@ -53,7 +53,7 @@
 
   **Q: How to view Twitter posts without an account?**
   
-  A: Simply use our [Twitter Viewer](https://twitterwebviewer.com/) to bypass the login requirement and browse profiles directly.
+  A: Simply use our [Twitter Viewer](https://twitterwebviewer.com/) to browse profiles directly.
 
   **Q: Is there an anonymous Twitter search tool?**
   
